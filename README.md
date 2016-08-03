@@ -1,0 +1,1 @@
+Android M6.0.1_r22 imx6 patched!
